@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
-        double tutar,kdvOran1=0.18,kdvOran2=0.08,kdvOran,kdvTutar,kdvliTutar;
+        double tutar,kdvOran1=0.18,kdvOran2=0.08,kdvOran,kdvTutar,kdvliTutar,k;
 
         Scanner input = new Scanner(System.in);
         System.out.print("Ücret tutarını giriniz: ");
